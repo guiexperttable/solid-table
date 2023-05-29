@@ -1,7 +1,7 @@
-import SolidTable from "./SolidTable";
+import GuiexpertTable from "./GuiexpertTable";
 import { ComponentRendererWrapper } from "./ComponentRendererWrapper";
 
 export {
-  SolidTable,
+  GuiexpertTable,
   ComponentRendererWrapper
 };

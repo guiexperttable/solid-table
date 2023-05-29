@@ -1,7 +1,7 @@
 import { mergeProps, onMount } from "solid-js";
 import { SimpleDomService, TableOptions, TableScope } from "../../table/src";
 
-export default function SolidTable(props) {
+export default function GuiexpertTable(props) {
 
   let ref;
 

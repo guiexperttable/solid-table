@@ -2,9 +2,6 @@ import { AreaIdent, AreaModelIf, CellRendererIf, DomServiceIf, RendererCleanupFn
 import { JSX } from "solid-js/jsx-runtime";
 import { mergeProps, render } from "solid-js/web";
 
-//import {RendererPropsIf}  from "./RendererPropsIf";
-
-
 export class ComponentRendererWrapper implements CellRendererIf {
 
   constructor(
